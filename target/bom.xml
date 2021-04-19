@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><bom serialNumber="urn:uuid:f6daf608-740f-48ed-9784-c7b6650a69c1" version="1" xmlns="http://cyclonedx.org/schema/bom/1.2">
+<?xml version="1.0" encoding="UTF-8"?><bom serialNumber="urn:uuid:ddd246d8-b453-44a3-97f8-827b3ba7f875" version="1" xmlns="http://cyclonedx.org/schema/bom/1.2">
   <metadata>
-    <timestamp>2021-04-19T19:41:52Z</timestamp>
+    <timestamp>2021-04-19T20:50:52Z</timestamp>
     <tools>
       <tool>
         <vendor>CycloneDX</vendor>
